@@ -1,0 +1,15 @@
+Juice
+15
+15
+Poland
+15
+Apple
+20
+20
+Denmark
+20
+Coffee
+30
+30
+Bulgaria
+30

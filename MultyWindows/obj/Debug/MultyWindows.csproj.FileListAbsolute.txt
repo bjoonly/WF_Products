@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\MultyWindows\MultyWindows\bin\Debug\MultyWindows.exe.config
+C:\Users\Admin\source\repos\MultyWindows\MultyWindows\bin\Debug\MultyWindows.exe
+C:\Users\Admin\source\repos\MultyWindows\MultyWindows\bin\Debug\MultyWindows.pdb
+C:\Users\Admin\source\repos\MultyWindows\MultyWindows\obj\Debug\MultyWindows.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MultyWindows\MultyWindows\obj\Debug\MultyWindows.Form1.resources
+C:\Users\Admin\source\repos\MultyWindows\MultyWindows\obj\Debug\MultyWindows.ProductForm.resources
+C:\Users\Admin\source\repos\MultyWindows\MultyWindows\obj\Debug\MultyWindows.Properties.Resources.resources
+C:\Users\Admin\source\repos\MultyWindows\MultyWindows\obj\Debug\MultyWindows.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\MultyWindows\MultyWindows\obj\Debug\MultyWindows.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MultyWindows\MultyWindows\obj\Debug\MultyWindows.exe
+C:\Users\Admin\source\repos\MultyWindows\MultyWindows\obj\Debug\MultyWindows.pdb
